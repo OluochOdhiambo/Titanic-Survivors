@@ -14,12 +14,16 @@ iii. To identify the ideal training_test split size for the best model accuracy.
 ## Setup/Installation Requirements
 * Github
 * Jupyter Notebook
+
 ## Known Bugs
-This has no known bugs.
+This code has no known bugs.
+
 ## Technologies Used
 This project adopts the python language while it also adopts methods from multiple libraries including pandas, numpy, matplotlib.pyplot, seaborn, and sklearn.
+
 ## Support and contact details
-Incase of issues, queries or concerns with the code, kindly inbox me as I am open to correction and amendment.}
-### License
+Incase of issues, queries or concerns with the code, kindly inbox me as I am open to correction and amendment.
+
+## License
 *Open Licence.*
 Copyright (c) 2020 **{OluochOdhiambo}**
