@@ -1,6 +1,7 @@
 # Supervised Learning (Titanic Survival Classification).
 #### This notebook contains a K-Nearest Neighbor classification model for predicting the whether or not a passenger survived the titanic, 15/08/2020.
 #### By **{OluochOdhiambo}**
+
 ## Task Description
 The Titanic was responsible for one of the greatest catastrophes in history leading to the death of over 1500 passengers. Although the loss of lives was preventable if not for the weak safety regulations, the incident can be used to prepare for future incidents and enhace disaster preparedness.
 Using the titanic data set, this project entails:
